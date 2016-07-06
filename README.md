@@ -1,5 +1,5 @@
 # HappyTime
-###### Keeps track of the time you've been a loved one so you don't have to. Also shows countdowns for celebrations.
+###### Keeps track of the time you've been a loved one so you don't have to and yes im forgetful. Also shows countdowns for celebrations.
 
 ![Image unavailable](https://i.gyazo.com/2e891b3d16edf6cfb511ffb8244a75b9.png)
 
